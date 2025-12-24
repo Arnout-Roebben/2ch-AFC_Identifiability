@@ -35,7 +35,10 @@ The code has been developed and tested in MATLAB R2024a.
 	journal = {IEEE Open J. Signal Process. (OJSP)},
 	author = {Roebben, A. and van Waterschoot, T. and Wouters, J. and Moonen, M.},
 	year = {2025},
-	note = {Accepted for publication},
+  month=dec,
+	volume={7},
+  pages={1--10},
+  doi={10.1109/OJSP.2025.3639934}
 }
 ```
 

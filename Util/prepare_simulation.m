@@ -33,9 +33,10 @@ function [s,stream,p] = prepare_simulation(p,stream)
 % AUTHOR:  Arnout Roebben
 % CONTACT: arnout.roebben@esat.kuleuven.be
 % CITE: A. Roebben, T. van Waterschoot, J. Wouters and M. Moonen, 
-% "Identifiability Conditions for Acoustic Feedback Cancellation with the 
-% Two-Channel Adaptive Feedback Canceller Algorithm," Accepted for publication 
-% in IEEE Open Journal of Signal Processing (OJSP), 2025.
+% "Identifiability Conditions for Acoustic Feedback Cancellation With the 
+% Two-Channel Adaptive Feedback Canceller Algorithm," in 
+% IEEE Open Journal of Signal Processing, vol. 7, pp. 1-10, 2025, 
+% doi: 10.1109/OJSP.2025.3639934.
 % and
 % A. Roebben, “Github repository: Identifiability Conditions for Acoustic 
 % Feedback Cancellation with the Two-Channel Adaptive Feedback Canceller Algorithm,” 
